@@ -1,3 +1,10 @@
+[![Controller](https://img.shields.io/badge/Controller-XInput%20Support-2ea44f?style=flat-square)](#controller)
+[![FOV](https://img.shields.io/badge/FOV-Adjustable-2ea44f?style=flat-square)](#FOV)
+[![FPS](https://img.shields.io/badge/FPS-Unlocked-2ea44f?style=flat-square)](#FPS)
+[![Mod%20Menu](https://img.shields.io/badge/Mod%20Menu-Enabled-2ea44f?style=flat-square)](#mod-menu)
+[![Window%20Mode](https://img.shields.io/badge/Window%20Mode-Forced-2ea44f?style=flat-square)](#window-mode)
+
+
 <div align="center">
 
 # 🎮 Game Specific Patches & DLL Wrappers  
