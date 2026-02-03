@@ -1,8 +1,9 @@
-[![Controller](https://img.shields.io/badge/Controller-XInput%20Support-2ea44f?style=flat-square)](#controller)
-[![FOV](https://img.shields.io/badge/FOV-Toggle-2ea44f?style=flat-square)](#FOV)
-[![FPS](https://img.shields.io/badge/FPS-Adjustable-2ea44f?style=flat-square)](#FPS)
-[![Mod%20Menu](https://img.shields.io/badge/Mod%20Menu-INI-2ea44f?style=flat-square)](#mod-menu)
-[![Window%20Mode](https://img.shields.io/badge/Window%20Mode-INI-2ea44f?style=flat-square)](#window-mode)
+[![Controller](https://img.shields.io/badge/Controller-XInput%20Support-007ec6?style=flat-square)](#controller)
+[![FOV](https://img.shields.io/badge/FOV-Toggle-f39c12?style=flat-square)](#fov)
+[![FPS](https://img.shields.io/badge/FPS-Adjustable-2ea44f?style=flat-square)](#fps)
+[![Mod%20Menu](https://img.shields.io/badge/Mod%20Menu-INI-8e44ad?style=flat-square)](#mod-menu)
+[![Window%20Mode](https://img.shields.io/badge/Window%20Mode-INI-555555?style=flat-square)](#window-mode)
+
 
 
 <div align="center">
