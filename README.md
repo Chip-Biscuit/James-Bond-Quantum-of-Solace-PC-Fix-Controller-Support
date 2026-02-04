@@ -56,7 +56,7 @@ The default layout is as follows:
 
 <img width="1427" height="1697" alt="Screenshot_2026-01-28_144241" src="https://github.com/user-attachments/assets/55936bd2-a10b-4fbd-bfb8-24066e4a6ae5" />
 
-you can use controller also for the FOV toggle and FPS toggle by default it would be RB + left FPS toggle, RB + right FOV toggle. if you change the hotkeys for FOV and FPS here: 
+you can use controller also for the FOV toggle and FPS toggle by default it would be LB + left FPS toggle, LB + right FOV toggle. if you change the hotkeys for FOV and FPS here: 
 
         [FOV] 
         hotkey_vk=0x05
@@ -66,12 +66,12 @@ you can use controller also for the FOV toggle and FPS toggle by default it woul
 
 you will have to update the corresponding key here:
 
-        combo6=RB+DpadRight
+        combo6=LB+DpadRight
         combo6_vks=0x05 ----- FOV toggle <- make sure this matches the same hotkey as under [FOV above]
         combo6_modes=HOLD
         combo6_suppress=1
 
-        combo7=RB+DpadLeft
+        combo7=LB+DpadLeft
         combo7_vks=0x06 ----- FPS toggle <- make sure this matches the same hotkey as under [FPS above]
         combo7_modes=HOLD
         combo7_suppress=1
@@ -79,11 +79,11 @@ you will have to update the corresponding key here:
 you can use controller also for the MOD menu as follows: 
 
           Select - tab - open phone menu
-          RB + UP - 2 - start the mod menu
+          LB + UP - 2 - start the mod menu
           Start - esc - back to game 
           Right trigger/ Left Trigger - rmb/lmb -  navigate the mod menu
           X - F - Select things in the menu 
-          RB + Down - Q - Quit the menu
+          LB + Down - Q - Quit the menu
 
 # Mod Menu
 This fix includes the mod menu from https://www.speedrun.com/qos/resources/6sb4i for convenience of the end user to have everything all together in one fix and to preserve the menu so that it is not lost. 
@@ -96,11 +96,11 @@ The user can turn on the Mod Menu inside of the d3d9.ini file via the option [Mo
 you can use controller also for the MOD menu as follows: 
 
           Select - tab - open phone menu
-          RB + UP - 2 - start the mod menu
+          LB + UP - 2 - start the mod menu
           Start - esc - back to game 
           Right trigger/ Left Trigger - rmb/lmb -  navigate the mod menu
           X - F - Select things in the menu 
-          RB + Down - Q - Quit the menu
+          LB + Down - Q - Quit the menu
 
 # Vote to see the game return via GOG Dreamlist
 If you are interested in potentially seeing this game easily available to purchase and use today then go and vote on the games GOG Dreamlist to help make this become a reality, you can vote for the game here and write a message about the game if you wish – https://www.gog.com/dreamlist/game/james-bond-007-quantum-of-solace-2008 
